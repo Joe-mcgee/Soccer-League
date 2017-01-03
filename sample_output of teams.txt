@@ -1,0 +1,23 @@
+Sharks: 
+OrderedDict([('Name', 'Phillip Helm'), ('Height (inches)', '44'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Thomas Helm and Eva Jones')])
+OrderedDict([('Name', 'Herschel Krustofski'), ('Height (inches)', '45'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Hyman and Rachel Krustofski')])
+OrderedDict([('Name', 'Suzane Greenberg'), ('Height (inches)', '44'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Henrietta Dumas')])
+OrderedDict([('Name', 'Matt Gill'), ('Height (inches)', '40'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Charles and Sylvia Gill')])
+OrderedDict([('Name', 'Chloe Alaska'), ('Height (inches)', '47'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'David and Jamie Alaska')])
+OrderedDict([('Name', 'Kimmy Stein'), ('Height (inches)', '41'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Bill and Hillary Stein')])
+
+Dragons: 
+OrderedDict([('Name', 'Bill Bon'), ('Height (inches)', '43'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Sara and Jenny Bon')])
+OrderedDict([('Name', 'Diego Soto'), ('Height (inches)', '41'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Robin and Sarika Soto')])
+OrderedDict([('Name', 'Jill Tanner'), ('Height (inches)', '36'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Clara Tanner')])
+OrderedDict([('Name', 'Eva Gordon'), ('Height (inches)', '45'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Wendy and Mike Gordon')])
+OrderedDict([('Name', 'Sal Dali'), ('Height (inches)', '41'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Gala Dali')])
+OrderedDict([('Name', 'Joe Kavalier'), ('Height (inches)', '39'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Sam and Elaine Kavalier')])
+
+Raptors: 
+OrderedDict([('Name', 'Karl Saygan'), ('Height (inches)', '42'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Heather Bledsoe')])
+OrderedDict([('Name', 'Joe Smith'), ('Height (inches)', '42'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Jim and Jan Smith')])
+OrderedDict([('Name', 'Les Clay'), ('Height (inches)', '42'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Wynonna Brown')])
+OrderedDict([('Name', 'Ben Finkelstein'), ('Height (inches)', '44'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Aaron and Jill Finkelstein')])
+OrderedDict([('Name', 'Arnold Willis'), ('Height (inches)', '43'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Claire Willis')])
+OrderedDict([('Name', 'Sammy Adams'), ('Height (inches)', '45'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Jeff Adams')])
